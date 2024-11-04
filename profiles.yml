@@ -1,0 +1,7 @@
+gaming_dwh_project:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "/Users/kristina_mbp/PracticalAssignment04/gaming_dwh.duckdb"
+      schema: dbt_gaming  

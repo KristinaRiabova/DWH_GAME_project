@@ -1,0 +1,4 @@
+transaction_id,player_id,transaction_date,amount,currency
+1,1,2023-04-01,10,USD
+2,2,2023-04-02,20,USD
+3,1,2023-04-03,15,USD
